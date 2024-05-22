@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "+1234567890",
+    "email": "john.doe@example.com",
+    "userStatus": "old"
+  },
+  {
+    "name": "Jane Smith",
+    "phone": "+0987654321",
+    "email": "jane.smith@example.com",
+    "userStatus": "new"
+  },
+  {
+    "name": "Alice Johnson",
+    "phone": "+1122334455",
+    "email": "alice.johnson@example.com",
+    "userStatus": "old"
+  },
+  {
+    "name": "Bob Brown",
+    "phone": "+5566778899",
+    "email": "bob.brown@example.com",
+    "userStatus": "new"
+  }
+]
